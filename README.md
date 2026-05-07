@@ -1,8 +1,8 @@
-# Olá, eu sou a Gabriela 👋
+# Hey, sou a Gabriela. 
 
 ## Sobre mim
 
-Sou formada em Análise e Desenvolvimento de Sistemas pela FMU e atualmente estou em transição de carreira para a área de Tecnologia da Informação.
+Formada em Análise e Desenvolvimento de Sistemas pela FMU e atualmente estou em transição de carreira para a área de Tecnologia da Informação.
 
 Tenho experiência profissional nas áreas administrativa e contábil, o que me proporcionou habilidades analíticas, organização de processos e visão corporativa, competências que hoje aplico no desenvolvimento de soluções tecnológicas.
 
