@@ -88,12 +88,4 @@ gabrielanascimento783@gmail.com
 
 ---
 
-## Estatísticas GitHub
-
-![Gabriela GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielanbueno&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielanbueno&layout=compact)
-
----
-
 ⭐ Sempre em evolução na área de tecnologia.
