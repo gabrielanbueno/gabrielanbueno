@@ -1,4 +1,4 @@
-# Hey, sou a Gabriela. 
+# Olá, sou a Gabriela. 
 
 ## Sobre mim
 
